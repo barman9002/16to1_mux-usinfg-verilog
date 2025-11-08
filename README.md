@@ -131,6 +131,8 @@ the correct data line from `i` is passed to the output `out`.
 | ... | ... |
 | 1111 | i[15] |
 
+![16-to-1 MUX Output](result.png)
+
 ---
 
 ## 🧾 Explanation

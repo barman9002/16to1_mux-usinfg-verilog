@@ -25,7 +25,7 @@ Then, the final 4:1 MUX selects one of those four outputs using the remaining tw
 
 ## 🧩 Circuit Diagram
 
-![16-to-1 MUX Diagram](b8334f38-4e0d-47ff-98da-7d05d9490518.png)
+![16-to-1 MUX Diagram](schematic.png)
 
 ---
 
